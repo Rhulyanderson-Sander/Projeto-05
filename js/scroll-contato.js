@@ -1,6 +1,6 @@
 $(function(){
 
-    var directory = 'http://127.0.0.1:5500/'
+    var directory = 'http://rhulyanderson-sander.github.io/Projeto-05/'
 
     $('[goto=contato]').click(function(){
         location.href=directory+'index.html?contato';
